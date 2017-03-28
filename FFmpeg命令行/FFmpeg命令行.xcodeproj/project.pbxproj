@@ -29,6 +29,7 @@
 		B967BE401E8949CC00230801 /* libbz2.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = B967BE3F1E8949CC00230801 /* libbz2.tbd */; };
 		B967BE421E8949D600230801 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B967BE411E8949D600230801 /* AVFoundation.framework */; };
 		B967BE441E89582800230801 /* 1.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B967BE431E89582800230801 /* 1.mp4 */; };
+		B9FFD3641E89F8DE005BC2FE /* ff.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B9FFD3631E89F8DE005BC2FE /* ff.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -177,6 +178,7 @@
 		B967BE411E8949D600230801 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		B967BE431E89582800230801 /* 1.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = 1.mp4; sourceTree = "<group>"; };
 		B9FFD3611E896233005BC2FE /* libc.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libc.tbd; path = usr/lib/libc.tbd; sourceTree = SDKROOT; };
+		B9FFD3631E89F8DE005BC2FE /* ff.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ff.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -250,6 +252,7 @@
 				B967BD961E89493700230801 /* Assets.xcassets */,
 				B967BD981E89493700230801 /* LaunchScreen.storyboard */,
 				B967BD9B1E89493700230801 /* Info.plist */,
+				B9FFD3631E89F8DE005BC2FE /* ff.jpg */,
 				B967BE431E89582800230801 /* 1.mp4 */,
 				B967BD8A1E89493700230801 /* Supporting Files */,
 			);
@@ -588,6 +591,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B9FFD3641E89F8DE005BC2FE /* ff.jpg in Resources */,
 				B967BD9A1E89493700230801 /* LaunchScreen.storyboard in Resources */,
 				B967BE441E89582800230801 /* 1.mp4 in Resources */,
 				B967BD971E89493700230801 /* Assets.xcassets in Resources */,
